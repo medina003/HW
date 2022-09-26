@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\bin\Debug\net6.0\hw6cs.exe
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\bin\Debug\net6.0\hw6cs.deps.json
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\bin\Debug\net6.0\hw6cs.runtimeconfig.json
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\bin\Debug\net6.0\hw6cs.dll
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\bin\Debug\net6.0\hw6cs.pdb
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.dll
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\refint\hw6cs.dll
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.pdb
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\hw6cs.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\hw6cs\hw6cs\obj\Debug\net6.0\ref\hw6cs.dll
