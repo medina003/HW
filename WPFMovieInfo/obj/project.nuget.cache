@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymIvZnKdcwPIsxxS2Bkl/V8AcMC0NcnsyLfy9YKYmd6I+zQ+vb4KIjVClZsUhqDwdXDd8xNA9tiaR9czUfx0UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\WPFMovieInfo\\WPFMovieInfo\\WPFMovieInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
