@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\bin\Debug\net6.0\AdapterAndBridgePatterns.exe
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\bin\Debug\net6.0\AdapterAndBridgePatterns.deps.json
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\bin\Debug\net6.0\AdapterAndBridgePatterns.runtimeconfig.json
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\bin\Debug\net6.0\AdapterAndBridgePatterns.dll
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\bin\Debug\net6.0\AdapterAndBridgePatterns.pdb
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.dll
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\refint\AdapterAndBridgePatterns.dll
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.pdb
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\AdapterAndBridgePatterns.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\AdapterAndBridgePatterns\AdapterAndBridgePatterns\obj\Debug\net6.0\ref\AdapterAndBridgePatterns.dll
