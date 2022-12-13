@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\bin\Debug\net6.0\ProxyPatternHW.exe
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\bin\Debug\net6.0\ProxyPatternHW.deps.json
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\bin\Debug\net6.0\ProxyPatternHW.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\bin\Debug\net6.0\ProxyPatternHW.dll
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\bin\Debug\net6.0\ProxyPatternHW.pdb
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.dll
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\refint\ProxyPatternHW.dll
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.pdb
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ProxyPatternHW.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\ProxyPatternHW\ProxyPatternHW\obj\Debug\net6.0\ref\ProxyPatternHW.dll
