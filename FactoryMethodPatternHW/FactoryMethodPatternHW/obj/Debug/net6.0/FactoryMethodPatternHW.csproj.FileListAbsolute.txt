@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\bin\Debug\net6.0\FactoryMethodPatternHW.exe
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\bin\Debug\net6.0\FactoryMethodPatternHW.deps.json
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\bin\Debug\net6.0\FactoryMethodPatternHW.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\bin\Debug\net6.0\FactoryMethodPatternHW.dll
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\bin\Debug\net6.0\FactoryMethodPatternHW.pdb
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.dll
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\refint\FactoryMethodPatternHW.dll
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.pdb
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\FactoryMethodPatternHW.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\FactoryMethodPatternHW\FactoryMethodPatternHW\obj\Debug\net6.0\ref\FactoryMethodPatternHW.dll
