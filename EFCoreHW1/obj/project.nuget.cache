@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZD+9ER2w4Hy363dAT/vwCW19fVYemCTXQsNVQdgK/Bz7PbeThUlvpYoT4MZg9/uQGAXj3Cjh726SMH7zRo8/Xg==",
+  "dgSpecHash": "MiyyjFw6qnC0pNz2a5RC4rc3kpsG/p2rthfMh9UEbFB4fVZ8CW4xToxAq29BkSJxMNQilgjeauU5nZbELEQEnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\EFCoreHw1\\EFCoreHW1\\EFCoreHW1.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\EFCoreHW1 — копия\\EFCoreHW1\\EFCoreHW1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
