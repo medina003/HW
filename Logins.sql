@@ -16,7 +16,7 @@ grant select on Barbershop1.dbo.Barbers to UserMark;
 deny select on Barbershop1.dbo.Barbers to UserMark;
 go
 
---task3
+--task2
 create login David with password = 'David123'
 go
 create user DavidUser for login David
