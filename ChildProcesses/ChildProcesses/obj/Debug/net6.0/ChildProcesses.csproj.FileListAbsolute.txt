@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\bin\Debug\net6.0\ChildProcesses.exe
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\bin\Debug\net6.0\ChildProcesses.deps.json
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\bin\Debug\net6.0\ChildProcesses.runtimeconfig.json
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\bin\Debug\net6.0\ChildProcesses.dll
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\bin\Debug\net6.0\ChildProcesses.pdb
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.AssemblyInfo.cs
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.dll
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\refint\ChildProcesses.dll
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.pdb
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ChildProcesses.genruntimeconfig.cache
+C:\Users\USER\source\repos\ChildProcesses\ChildProcesses\obj\Debug\net6.0\ref\ChildProcesses.dll
