@@ -1,0 +1,52 @@
+﻿<Window x:Class="RockPaperScissors.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RockPaperScissors"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="450">
+    <Grid>      
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions >
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.RowDefinitions >
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions> 
+            <RadioButton Height="20" Width="100" Name="radio_server"  Content="I'm server"/>
+            <TextBox Name="text_ip" TextAlignment="Center" VerticalAlignment="Center" Grid.Row="2">127.0.0.1</TextBox>
+            <Button Grid.Row="3" Name="button_start" Click="button_start_Click_1" >Start!</Button>
+            <RadioButton Grid.Row="1" Height="20" Name="radio_client" Width="100"  Content="I'm client"/>
+
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions >
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Name="button_rock" Click="button_rock_Click" >Rock</Button>
+            <Button Grid.Row="1" Name="button_scissors" Click="button_scissors_Click" >Scissors</Button>
+            <Button Grid.Row="2" Name="button_paper" Click="button_paper_Click" >Paper</Button>
+            <Label HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Name="lbl_state"></Label>
+            <Label HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Name="lbl_count"></Label>
+
+        </Grid>
+        <Grid Grid.Row="1" >
+            <TextBox x:Name="text_debug">
+               
+            </TextBox>
+        </Grid>
+    </Grid>
+</Window>
